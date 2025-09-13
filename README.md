@@ -166,4 +166,4 @@ In this project, we deployed **WordPress** on Amazon Linux using **Apache**, **M
 If you face any issues or have questions, feel free to reach out to me:
 
 * **Email:** [kunalshinde066@gmail.com](mailto:kunalshinde066@gmail.com)
-* **LinkedIn:** [https://www.linkedin.com/in/kunalshinde043/](https://www.linkedin.com/in/kunalshinde043/)
+* **LinkedIn:** [https://www.linkedin.com/in/kunal-shinde-1b17a2205/](Kunal_Shinde)
